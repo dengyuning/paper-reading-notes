@@ -22,4 +22,5 @@ h_t是篇章、问句和某个答案候选项的匹配表示。最后将所有�
 注意力计算挺简单的，不复杂，不过有时候简单或许更好。
 
 7. 相关：
+* [论文链接](http://aclweb.org/anthology/P18-2118)
 * [论文代码](https://github.com/shuohangwang/comatch)
