@@ -7,7 +7,7 @@
 
 
 5. 性能：
-![image]()
+![image](https://github.com/dengyuning/paper-reading-notes/blob/master/MRC/2018-10/2018_10_1.png?raw=true)
 
 
 6. 个人想法：
