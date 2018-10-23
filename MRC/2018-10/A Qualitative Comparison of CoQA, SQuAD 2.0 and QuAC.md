@@ -1,14 +1,14 @@
-### 阅读时间：2018年10月23日
-### 会议：http://cn.arxiv.org/abs/1809.10735?context=cs.CL
-### 组织机构：Allen Institute
-### 数据集：CoQA, SQuAD 2.0 and QuAC
+1. 阅读时间：2018年10月23日
+2. 会议：http://cn.arxiv.org/abs/1809.10735?context=cs.CL
+3. 组织机构：Allen Institute
+4. 数据集：CoQA, SQuAD 2.0 and QuAC
 
-#### 论文简介
+5. 论文简介
 这篇论文主要是对最近学术界新推出的三个新的阅读理解数据集进行了分析比较。
 用BiDAF++模型在三个数据集上分别进行了实验。
 
-#### 个人想法
-1. CoQA: 斯坦福大学推出的一个多轮对话式的阅读理解数据集。针对一个篇章，有两个说话人，一个说话人提问，
+6. 个人想法
+* CoQA: 斯坦福大学推出的一个多轮对话式的阅读理解数据集。针对一个篇章，有两个说话人，一个说话人提问，
 另一个说话人回答。问题类别多种多样。需要利用之前对话的历史信息来回答这一轮的问题。
-2. SQuAD 2.0: 跟SQuAD数据集相比，增加了很多unanswerable questions.
-3. QuAC: 
+* SQuAD 2.0: 跟SQuAD数据集相比，增加了很多unanswerable questions.
+* QuAC: 
