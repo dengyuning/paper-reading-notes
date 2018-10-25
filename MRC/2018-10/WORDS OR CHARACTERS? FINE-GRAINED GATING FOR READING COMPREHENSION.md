@@ -17,15 +17,18 @@ representations, our method is different in two ways. First, we use a more fine-
 1. Attention over attention 中的注意力机制:   
 dot product 计算相似度; 篇章中每个词和问句中每个词都进行计算，属于pair-wise.
 2. The Gated Attention Reader 中的注意力机制:  
-element-wise product;给篇章中的每个词的表示一个权重，代表这个词的重要性。
-3. 本文的注意力机制:   
-both pair-wise and element-wise 
+element-wise product;给篇章中的每个词的表示一个权重，代表这个词的重要性.
+3. 本文的注意力机制(详见模型框架图2):   
+both pair-wise and element-wise.
 
 ### 模型框架：  
-![image](https://github.com/dengyuning/paper-reading-notes/blob/master/paper_pictures/words_or_characters.png?raw=true)
+
+![image](https://github.com/dengyuning/paper-reading-notes/blob/master/paper_pictures/words_or_chars_gate1.png?raw=true)
+
+![image](https://github.com/dengyuning/paper-reading-notes/blob/master/paper_pictures/words_or_chars_gate2.png?raw=true)
 
 ### 个人想法: 
-在特征表示部分做的改动。
+在【特征表示层】和【信息交互层】做的改动。性能提升不明显。
 
 ### 相关  
 [论文代码](https://github.com/kimiyoung/fg-gating)
