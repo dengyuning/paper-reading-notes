@@ -25,3 +25,18 @@ h_t是篇章、问句和某个答案候选项的匹配表示。最后将所有�
 7. 相关：
 * [论文链接](http://aclweb.org/anthology/P18-2118)
 * [论文代码](https://github.com/shuohangwang/comatch)
+
+@InProceedings{P18-2118,
+  author = 	"Wang, Shuohang
+		and Yu, Mo
+		and Jiang, Jing
+		and Chang, Shiyu",
+  title = 	"A Co-Matching Model for Multi-choice Reading Comprehension",
+  booktitle = 	"Proceedings of the 56th Annual Meeting of the Association for Computational Linguistics (Volume 2: Short Papers)",
+  year = 	"2018",
+  publisher = 	"Association for Computational Linguistics",
+  pages = 	"746--751",
+  location = 	"Melbourne, Australia",
+  url = 	"http://aclweb.org/anthology/P18-2118"
+}
+
