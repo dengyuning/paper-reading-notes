@@ -8,7 +8,6 @@
 5. 模型框架：
 ![image](https://github.com/dengyuning/paper-reading-notes/blob/master/MRC/2018-10/Read_and_Verify.png?raw=true)
 
-
 6. 个人想法
 
 
