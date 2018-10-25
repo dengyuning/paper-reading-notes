@@ -15,13 +15,15 @@ unanswerable questions一视同仁）,另一个是Answer Verifier,对No-Answer R
 模型结构暂不做详细介绍。主要有三个损失。
 指针网络的输出和NA probability归一化得到的损失:
 > Concretely, a shared softmax function can be applied to normalize both of no-answer score and span scores, yielding a joint no-answer objective defined as:
-![image](https://github.com/dengyuning/paper-reading-notes/blob/master/MRC/2018-10/Read_and_Verify.png?raw=true)
+![image](https://github.com/dengyuning/paper-reading-notes/blob/master/MRC/2018-10/Read_and_Verify_loss1.png?raw=true)
 
 Independent Span Loss(独立的指针网络的损失):
 > Therefore, besides answerable questions, we also include unanswerable cases as positive examples, and consider the plausible answer as gold answer.
+![image](https://github.com/dengyuning/paper-reading-notes/blob/master/MRC/2018-10/Read_and_Verify_loss2.png?raw=true)
 
 Independent No-Answer Loss(独立的NA损失)
 > Despite a multihead pointer network being used to prevent the confliction problem, no-answer detection can still be weakened since the no-answer score z is normalized with span scores. Therefore, we consider exclusively encouraging the prediction on no-answer detection.
+![image](https://github.com/dengyuning/paper-reading-notes/blob/master/MRC/2018-10/Read_and_Verify_loss3.png?raw=true)
 
 * Answer Verifier
 论文中设计了三种模型。这三种模型的输入都是[S;Q;$;A]。
@@ -33,6 +35,6 @@ Independent No-Answer Loss(独立的NA损失)
 ![image](https://github.com/dengyuning/paper-reading-notes/blob/master/MRC/2018-10/Read_and_Verify.png?raw=true)
 
 6. 个人想法
-
+重点在损失设计上。
 
 7. 相关
