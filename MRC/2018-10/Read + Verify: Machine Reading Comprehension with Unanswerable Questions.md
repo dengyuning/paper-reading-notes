@@ -1,9 +1,9 @@
-0. 阅读时间：2018年10月25日
-1. 会议：http://cn.arxiv.org/pdf/1808.05759
-2. 组织机构：微软和国防科大
-3. 数据集：SQuAD 2.0
+#### 阅读时间：2018年10月25日
+#### 会议：http://cn.arxiv.org/pdf/1808.05759
+#### 组织机构：微软和国防科大
+#### 数据集：SQuAD 2.0
 
-4. 论文简介:  
+#### 论文简介:  
 SQuAD2.0和SQuAD1.0最大的区别就在于，SQuAD2.0中有很多无法回答的问题。模型需要去判别数据集中哪些样本的问题是无法回答的。
 > Previous works (Levy et al., 2017; Clark and Gardner, 2018) all apply a shared-normalization
 operation between a “no-answer” score and answer span scores, so as to produce a probability that a question is unanswerable and output a candidate answer simultaneously.
