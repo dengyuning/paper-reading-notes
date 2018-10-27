@@ -10,14 +10,14 @@
 模型由两部分组成：a base neural model for single-turn MC and a FLOW mechanism that encodes the conversation history.
 
 #### 模型框架:  
-![image](https://github.com/dengyuning/paper-reading-notes/blob/master/paper_pictures/FlowQA_model.png?raw=true)
+![image](https://github.com/dengyuning/paper-reading-notes/blob/master/paper_pictures/FlowQA_model.png?raw=true)    
 
 0. Integration Flow Layer:(这块没太看懂)
 对于每个问句来说，有一个篇章的表示D_i。i代表的是当前对话的轮数。
 
-1.QUESTION/CONTEXT ENCODING
+1. QUESTION/CONTEXT ENCODING
 
-3.
+2.
 
 #### 个人想法:   
 * 研究背景：  
