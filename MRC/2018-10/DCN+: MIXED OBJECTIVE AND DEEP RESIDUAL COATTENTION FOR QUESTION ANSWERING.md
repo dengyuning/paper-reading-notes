@@ -7,6 +7,7 @@ coattention encoder and a mixed training objective that combines cross entropy l
 likelihood estimation and reinforcement learning rewards from self-critical policy learning.
 
 4. 模型结构:
+![image](https://github.com/dengyuning/paper-reading-notes/blob/master/paper_pictures/DCN+_model1.png?raw=true)
 
 5. 个人想法:
 修改了信息交互层和答案层的损失函数。
