@@ -10,5 +10,7 @@ likelihood estimation and reinforcement learning rewards from self-critical poli
 
 5. 个人想法:
 修改了信息交互层和答案层的损失函数。
+信息交互层的工作，把DCN的计算过程堆叠了两次。把第一次注意力机制计算得到的特征、第二次注意力机制计算得到的特征，以及原有的篇章表示特征串接在一起，过一个双向LSTM，作为信息交互层最终的输出。
+
 
 6. 其他:
