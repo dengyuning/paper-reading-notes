@@ -13,7 +13,7 @@
 ![image](https://github.com/dengyuning/paper-reading-notes/blob/master/paper_pictures/BiDAF.png?raw=true)
 
 5. 个人想法:  
-第一次提出双向的注意力机制。
+第一次提出双向的注意力机制。但是问句对篇章的注意力机制的设计总感觉不是很舒服。
 
-6. 相关:
+6. 相关:  
 [代码](https://github.com/allenai/bi-att-flow)
