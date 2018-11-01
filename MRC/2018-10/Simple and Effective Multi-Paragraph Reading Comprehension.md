@@ -22,10 +22,10 @@ adept at ignoring irrelevant text.
 comparable between different paragraphs.
 
 4. 模型框架:  
-![image]()
+![image](https://github.com/dengyuning/paper-reading-notes/blob/master/paper_pictures/bidaf_self_att.png?raw=true)
 
 5. 个人想法:  
-
+基于对任务认识的数据预处理，信息交互层的改进和答案层损失的设计。
 
 6. 相关:  
 [代码](https://github.com/allenai/document-qa)
