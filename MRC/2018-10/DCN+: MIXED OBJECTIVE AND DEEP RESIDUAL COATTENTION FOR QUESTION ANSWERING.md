@@ -17,4 +17,4 @@ likelihood estimation and reinforcement learning rewards from self-critical poli
 > 引入强化学习来提高F1值。
 
 6. 其他:  
-[DCN]()
+[DCN](https://github.com/dengyuning/paper-reading-notes/blob/master/MRC/2018-10/DYNAMIC%20COATTENTION%20NETWORKS%20FOR%20QUESTION%20ANSWERING.md)
