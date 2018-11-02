@@ -14,10 +14,10 @@ in language understanding and MRC.
 
 5. 模型框架:  
 * 模型
-![image]()
+![image](https://github.com/dengyuning/paper-reading-notes/blob/master/paper_pictures/FusionNet_model.png?raw=true)
 
 * 跟以往attention的对比图
-![image]()
+![image](https://github.com/dengyuning/paper-reading-notes/blob/master/paper_pictures/FusionNet_table1.png?raw=true)
 (1) Word-level Fusion  
 (2) High-level Fusion  
 (2`) High-level Fusion(Alternative)   
