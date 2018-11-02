@@ -24,7 +24,7 @@ Graph Reachability: 篇章过完双向LSTM之后的特征
 利用每个time step的状态值s_t来过一个逻辑回归，进行二分类，判断要不要停下来。
 
 5. 模型框架:    
-![image]()
+![image](https://github.com/dengyuning/paper-reading-notes/blob/master/paper_pictures/ReasoNet_model.png?raw=true)
 
 6. 个人想法:     
 最优化算法用到了强化学习。引入了memory机制。
