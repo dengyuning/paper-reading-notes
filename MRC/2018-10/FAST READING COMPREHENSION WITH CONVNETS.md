@@ -8,6 +8,7 @@ to avoid recurrent units in text precessing. More specifically, we use a combina
 networks (He et al., 2016), dilated convolutions (Yu & Koltun, 2016) and gated linear units (Dauphin
 et al., 2017).
 
+提出一个文本序列预处理的模块Conv。将BiDAF和Drqa模型中的RNN序列建模部分，替换成Conv。加速模型训练。
 
 5. 模型框架:
 ![image](https://github.com/dengyuning/paper-reading-notes/blob/master/paper_pictures/convNets.png?raw=true)
