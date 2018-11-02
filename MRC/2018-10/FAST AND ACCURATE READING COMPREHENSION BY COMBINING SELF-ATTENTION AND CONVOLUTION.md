@@ -24,8 +24,6 @@ et al., 2015). The resulting representation is encoded again with our recurrency
 finally decoding to the probability of each position being the start or end of the answer span.
 
 6. 个人想法:
-CNN对篇章建模，比RNN快。
-transformer:没有用RNN，并行计算注意力机制，快。
-在上下文表征层做的改动。
+在上下文表征层做的改动。模型加速。 
 
 7. 其他
