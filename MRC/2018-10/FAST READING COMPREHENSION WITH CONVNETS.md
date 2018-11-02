@@ -10,9 +10,9 @@ et al., 2017).
 
 
 5. 模型框架:
-![image]()
+![image](https://github.com/dengyuning/paper-reading-notes/blob/master/paper_pictures/convNets.png?raw=true)
 
 6. 个人想法:  
-文档表示方面的工作。通用框架的设计。
+文档表示方面的工作。通用模块设计。
 
 7. 其他
