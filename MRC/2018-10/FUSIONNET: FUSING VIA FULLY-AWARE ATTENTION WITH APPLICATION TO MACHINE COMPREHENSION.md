@@ -20,9 +20,9 @@ in language understanding and MRC.
 ![image](https://github.com/dengyuning/paper-reading-notes/blob/master/paper_pictures/FusionNet_table1.png?raw=true)
 (1) Word-level Fusion  
 (2) High-level Fusion  
-(2`) High-level Fusion(Alternative)   
+(2\`) High-level Fusion(Alternative)   
 (3) Self-boosted fusion  
-(3`) Self-boosted fusion(Alternative)    
+(3\`) Self-boosted fusion(Alternative)    
 
 6. 个人想法:  
 本文创新点在于信息交互层的设计。分析了以往注意力机制都是在哪一层展开的。然后引入History-of-word的概念，
