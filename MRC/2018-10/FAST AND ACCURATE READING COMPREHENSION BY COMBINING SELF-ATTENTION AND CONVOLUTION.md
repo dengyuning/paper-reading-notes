@@ -23,7 +23,7 @@ between context and question by standard attentions (Xiong et al., 2016; Seo et 
 et al., 2015). The resulting representation is encoded again with our recurrency-free encoder before
 finally decoding to the probability of each position being the start or end of the answer span.
 
-6. 个人想法:
+6. 个人想法:  
 在上下文表征层做的改动。模型加速。 
 
 7. 其他
