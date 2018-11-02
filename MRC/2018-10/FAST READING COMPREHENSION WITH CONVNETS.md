@@ -13,6 +13,8 @@ et al., 2017).
 5. 模型框架:
 ![image](https://github.com/dengyuning/paper-reading-notes/blob/master/paper_pictures/convNets.png?raw=true)
 
+![image](https://github.com/dengyuning/paper-reading-notes/blob/master/paper_pictures/convNets_table1.png?raw=true)
+
 6. 个人想法:  
 文档表示方面的工作。通用模块设计。
 
