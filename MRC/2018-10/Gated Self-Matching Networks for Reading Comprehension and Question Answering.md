@@ -16,4 +16,4 @@
 在信息交互层首次引入self attention的模型。
 
 6. 相关:
-[R-net](www.baidu.com)
+[R-net](https://github.com/dengyuning/paper-reading-notes/blob/master/paper_pictures/R-net.png?raw=true)
