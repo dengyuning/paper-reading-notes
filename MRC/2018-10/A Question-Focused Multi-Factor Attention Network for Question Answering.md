@@ -6,7 +6,7 @@
 > We propose a multi-factor attentive encoding approach based on tensor transformation to 
 synthesize meaningful evidence across multiple sentences.
 
-本质上相当于多个语义空间的self-attention机制。用W矩阵计算了m个角度的相似度，求出最大值作为最后的相似度矩阵F~。用矩阵F~和篇章原本的表示V相乘，得到新的篇章表示M~。在此基础上，设计了一个门，来动态控制M~的信息流。
+本质上相当于多个语义空间的self-attention机制。用W矩阵计算了m个角度的相似度，求出最大值作为最后的相似度矩阵F~。用矩阵F~  和篇章原本的表示V相乘，得到新的篇章表示M~。在此基础上，设计了一个门，来动态控制M~的信息流。
 
 > To subsume fine-grained answer type information, we propose a max-attentional question 
 aggregation mechanism which learns to identify the meaningful portions of a question.  
