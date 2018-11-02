@@ -1,9 +1,9 @@
 0. 阅读时间: 早  
-1. 会议: ICLR2018  
+1. 会议: ICLR2018   
 2. 组织机构: Google Brain, CMU  
 3. 数据集: SQuAD
 
-4. 论文简介: 
+4. 论文简介:   
 模型创新+数据增强(data augmentation)方法。  
 * Embedding Encoder Layer:
 > The encoder layer is a stack of the following basic building block: [convolution-layer x # + self-attention-layer + feed-forward-layer].
@@ -13,8 +13,8 @@
 数据增强用的是back translation。即用机器翻译模型，把一句英文翻译成对应的K句法文，然后再把法文翻译成英文，这样
 就得到了K^2句英文。只翻译(d,q,a)三元组中的d(文档)。
 
-5. 模型框架:
-![image]()
+5. 模型框架:  
+![image](https://github.com/dengyuning/paper-reading-notes/blob/master/paper_pictures/cnn_transformer.png?raw=true)
 
 > In this paper, aiming to make the machine comprehension fast, we propose to remove the recurrent
 nature of these models. We instead exclusively use convolutions and self-attentions as the building
