@@ -10,7 +10,7 @@ tity by dynamically constructing its meaning from the contexts.
 记做ce1。同理得到ce2和ce3。将这三个表示用学到的权重系数W（和问句表示计算注意力机制得到）进行线性加权，得到最终实体e的表示。
 
 5. 模型框架:  
-![image]()
+![image](https://github.com/dengyuning/paper-reading-notes/blob/master/paper_pictures/dynamic_entity_repre.png?raw=true)
 
 6. 个人想法:  
 ICLR2018有一篇类似论文
