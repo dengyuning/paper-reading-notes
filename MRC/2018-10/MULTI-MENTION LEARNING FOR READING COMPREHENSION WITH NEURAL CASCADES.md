@@ -9,7 +9,9 @@ submodels.
 3. the use of a multi-loss objective.
 
 #### 模型框架:   
-![image]()
+![image](https://github.com/dengyuning/paper-reading-notes/blob/master/paper_pictures/multi_mention_model.png?raw=true)
+
+![image](https://github.com/dengyuning/paper-reading-notes/blob/master/paper_pictures/multi_mention_complexity.png?raw=true)
 
 * LEVEL 1: AVERAGED BAGS OF EMBEDDINGS:
 0. span embeddings:
@@ -22,7 +24,7 @@ submodels.
 * LEVEL 2: ATTENDING TO THE CONTEXT (M3)
 * LEVEL 3: AGGREGATING MULTIPLE MENTIONS (M4)
 
-6. 个人想法:   
+#### 个人想法:   
 特别简单的模型。模型由很多子模型构成，每个子模型只包含全连接神经网络以及注意力机制。子模型可以并行。
 
-7. 相关:
+#### 相关:
