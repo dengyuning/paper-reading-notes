@@ -16,10 +16,10 @@ architecture first and validates design decisions by an ablation study. Most abl
 
 5. 模型框架:   
 Fig1 fastQA  
-![image]()
+![image](https://github.com/dengyuning/paper-reading-notes/blob/master/paper_pictures/FastQA_fig1.png?raw=true)
 
 Fig2  
-![image]()
+![image](https://github.com/dengyuning/paper-reading-notes/blob/master/paper_pictures/FastQA_fig2.png?raw=true)
 
 
 6. 个人想法:  
