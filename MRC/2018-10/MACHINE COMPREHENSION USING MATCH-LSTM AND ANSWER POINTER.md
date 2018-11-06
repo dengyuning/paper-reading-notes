@@ -7,7 +7,7 @@ Match-lstm(信息交互层)
 pointer network(答案层)  
 
 5. 模型框架:    
-![image]()
+![image](https://github.com/dengyuning/paper-reading-notes/blob/master/paper_pictures/match_lstm.png?raw=true)
 
 6. 个人想法:   
 首个提出用Pointer network做抽取式的阅读理解任务的模型。
