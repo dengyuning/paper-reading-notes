@@ -12,7 +12,7 @@ state-of-the-art systems by a large margin.
 and further improve the performance.
 
 #### 模型框架:
-![image](https://github.com/dengyuning/paper-reading-notes/blob/master/paper_pictures/Attention_over_attention_model.png?raw=true)  
+![image](https://github.com/dengyuning/paper-reading-notes/blob/master/paper_pictures/Attention_over_attention.png?raw=true)  
 
 #### 个人想法:  
 完形填空式的阅读理解任务。基于注意力机制的注意力。利用注意力机制来给篇章中每个词计算它作为答案的得分。
