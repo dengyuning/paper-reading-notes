@@ -2,7 +2,7 @@
 #### 会议: ACL2016  
 #### 组织机构: 哈工大和科大讯飞  
 #### 数据集: CNN和Daily Mail  
-#### 论文简介:  
+#### 论文简介:   
 1. To our knowledge, this is the first time that the mechanism of nesting another attention
 over the existing attentions is proposed, i.e. attention-over-attention mechanism.  
 2. Unlike the previous works on introducing complex architectures or many non-trainable
@@ -12,7 +12,9 @@ state-of-the-art systems by a large margin.
 and further improve the performance.
 
 #### 模型框架:
+![image](https://github.com/dengyuning/paper-reading-notes/blob/master/paper_pictures/Attention_over_attention_model.png?raw=true)  
 
-#### 个人想法:
+#### 个人想法:  
+完形填空式的阅读理解任务。基于注意力机制的注意力。利用注意力机制来给篇章中每个词计算它作为答案的得分。
 
-#### 相关
+#### 相关  
