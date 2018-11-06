@@ -21,10 +21,13 @@ submodels.
 2. SPAN + SHORT CONTEXT (M2):   
 对span左右的上下文词向量平均，得到span所在上下文的表示。串接上span表示，计算得到span的得分s2。
 
-* LEVEL 2: ATTENDING TO THE CONTEXT (M3)
+* LEVEL 2: ATTENDING TO THE CONTEXT (M3)  
+用包含span s的句子，和问句进行注意力计算。把M1和M2得到的表示和attention之后得到的句子表示、问句表示进行串接，得到M3表示，然后计算span的得分s3。 
+
 * LEVEL 3: AGGREGATING MULTIPLE MENTIONS (M4)
+把多处包含span s的表示进行聚合，进行打分，得到span的最终得分s4。
 
 #### 个人想法:   
-特别简单的模型。模型由很多子模型构成，每个子模型只包含全连接神经网络以及注意力机制。子模型可以并行。
+特别简单的模型。模型由很多子模型构成，每个子模型只包含全连接神经网络、非线性变换以及注意力机制。子模型可以并行。
 
 #### 相关:
