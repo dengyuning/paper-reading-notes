@@ -12,4 +12,5 @@
 6. 个人想法:   
 首个提出用Pointer network做抽取式的阅读理解任务的模型。
 
-7. 相关  
+7. 相关:
+[代码](https://github.com/shuohangwang/SeqMatchSeq)
