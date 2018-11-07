@@ -1,7 +1,7 @@
 #### 阅读时间: 早
 #### 会议: ACL2017
 #### 组织机构: 斯坦福和Facebook AI
-#### 数据集: SQuAD, CuratedTREC, WebQuestions,WikiMovies
+#### 数据集: SQuAD, CuratedTREC, WebQuestions, WikiMovies
 #### 论文简介: 
 * 创新点:
 > This paper proposes to tackle opendomain question answering using Wikipedia as the unique knowledge
