@@ -27,9 +27,9 @@ source: the answer to any factoid question is a text span in a Wikipedia article
 工业上可采用的pipeline。  
 
 #### 其他:
-1. [WikiExtractor script]: (https://github.com/attardi/wikiextractor).
-2. [CuratedTREC]: (https://github.com/brmson/dataset-factoid-curated).
-3. [YodaQA]: (https://github.com/brmson/yodaqa/wiki/Benchmarks)
+1. [WikiExtractor script](https://github.com/attardi/wikiextractor).
+2. [CuratedTREC](https://github.com/brmson/dataset-factoid-curated).
+3. [YodaQA](https://github.com/brmson/yodaqa/wiki/Benchmarks)
 
 
 #### 其他:
