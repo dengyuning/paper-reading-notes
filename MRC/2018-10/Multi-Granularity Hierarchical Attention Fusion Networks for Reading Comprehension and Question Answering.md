@@ -3,7 +3,7 @@
 #### 组织机构: 阿里  
 #### 数据集: SQuAD 2.0,TriviaQA, AddSent, AddOne-Sent  
 #### 论文简介:
-论文发表时在SQuAD2.0榜单上排名第一。  
+
 > It consists of several parts: a basic co-attention layer with shallow semantic fusion, a self-attention layer with deep semantic fusion and a memorywise bilinear alignment function.
 > The proposed network has two distinctive characteristics: (i) A fine-grained fusion approach to blend attention vectors for a better understanding of the relationship between question and passage; (ii) A multi-granularity attention mechanism applied at the word and sentence-level, enabling it to properly attend to the most important content when constructing the question and passage representation.
 
