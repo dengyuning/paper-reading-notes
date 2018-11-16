@@ -26,9 +26,9 @@ tion三种注意力。之后用双向LSTM进行聚合。
 term frequency是用英文维基百科计算的。  
 
 #### 其他:  
-[SemEval榜单](https://competitions.codalab.org/competitions/17184#results)
-[代码](https://github.com/intfloat/commonsense-rc)
-【资源】:ConceptNet, WebChild,DeScript
-【相关论文】:
-[Reasoning with heterogeneous knowledge for commonsense machine comprehension](http://aclweb.org/anthology/D17-1216)
-[Leveraging Knowledge Bases in LSTMs for Improving Machine Reading](http://aclweb.org/anthology/P17-1132)
+[SemEval榜单](https://competitions.codalab.org/competitions/17184#results)  
+[代码](https://github.com/intfloat/commonsense-rc)  
+【资源】:ConceptNet, WebChild,DeScript  
+【相关论文】:  
+[Reasoning with heterogeneous knowledge for commonsense machine comprehension](http://aclweb.org/anthology/D17-1216)  
+[Leveraging Knowledge Bases in LSTMs for Improving Machine Reading](http://aclweb.org/anthology/P17-1132)  
