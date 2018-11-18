@@ -17,8 +17,8 @@ is partially overlapped with the ground truth, as the normalized objective will 
 of ground truth positions. We refer to this case as the convergence suppression problem.
 
 #### 模型框架:  
-![image](https://github.com/dengyuning/paper-reading-notes/blob/master/paper_pictures/Reinforced_Mnemonic_Reader_model.png?raw=true)
-多轮的注意力机制  
+![image](https://github.com/dengyuning/paper-reading-notes/blob/master/paper_pictures/Reinforced_Mnemonic_Reader_model.png?raw=true)  
+【多轮的注意力机制】
 拿之前的注意力机制来修改当前的注意力机制    
 
 #### 个人想法:  
